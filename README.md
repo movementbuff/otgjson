@@ -1,0 +1,2 @@
+# otgjson
+GzGameUserSettings.JSON 
