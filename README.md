@@ -15,7 +15,7 @@ Installation
 
 - Press Windows Key + R or alternatively type Run into the start menu
 
-- Paste the following into the Run window and press enter:  Saved Games\OTG
+- Type the following into the Run window and press enter:       Saved Games\OTG
 
 - Paste the downloaded file GzGameUserSettings.json from your download directory into the OTG folder, replacing your current version of the file.
 
