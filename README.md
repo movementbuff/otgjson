@@ -20,9 +20,13 @@ Installation
 
 - Paste the downloaded file GzGameUserSettings.json from your download directory into the OTG folder, replacing your current version of the file.
 
-- Open GzGameUserSettings.json and check if any changes need to be made as per the compconfig guide.
+- Open GzGameUserSettings.json and check if any changes need to be made as per the compconfig guide. Some entries may be missing and these should be auto-generated when you launch the game.
 
-- Save changes if applicable. DO NOT SET THIS FILE TO READ ONLY.
+- Save changes if applicable.
+
+- Right Click the file GzGameUserSettings.json, select Properties, then tick the box "Unblock" and press OK. Make sure the Properties Window that opens is titled "GzGameUserSettings.json Properties". 
+
+- DO NOT SET THIS FILE TO READ ONLY.
 
 - Open Off The Grid and set up your sensitivity and other settings that may have reset.
 
