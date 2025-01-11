@@ -7,7 +7,7 @@ Installation
 
 - Open Off The Grid and go to your Settings in game.
   
-- Take a screenshot or photo of your sensitivities and other ingame settings or keybinds as they will likely be reset when you install this. It is very important that you do this.
+- Take a screenshot or photo of your sensitivities and other ingame settings or keybinds as they will likely be reset when you install this. It is VERY important that you do this step.
 
 - Close the game
 
