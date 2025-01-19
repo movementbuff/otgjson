@@ -38,7 +38,7 @@
 	"ControllerResponseCurve": 1,
 	"bToggleSprint": false,
 	"bEnableAutoSprint": true,
-	"UIAspectRatio": 0.85000002384185791,
+	
 	"bShowDamageNumbers": true,
 	"bShowComparisonTooltip": false,
 	"bShowLobbyOldScreenEffect": false,
